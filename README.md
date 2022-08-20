@@ -9,7 +9,7 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">DIGITAL CLOCK WEB MADE WITH HTML, CSS AND JAVASCRIPT</h3>
+  <h3 align="center">DIGITAL CLOCK WEB THEME SNOW WITH PARTICLES MADE WITH HTML, CSS AND JAVASCRIPT</h3>
 
   <p align="center">
     <br />
