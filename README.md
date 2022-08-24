@@ -9,7 +9,7 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">DIGITAL CLOCK WEB THEMED SNOW, WITH SNOW PARTICLES MADE WITH HTML, CSS AND JAVASCRIPT</h3>
+  <h3 align="center">DIGITAL CLOCK WEB THEMED SNOW, WITH SNOW PARTICLES MADE WITH HTML, CSS AND JAVASCRIPT V 1.0</h3>
 
   <p align="center">
     <br />
@@ -52,7 +52,7 @@ Utility:
 <!-- RELASES NOTES -->
 ### RELASES NOTES
 
-* New updates will be posted here.
+* V 1.0 - Added date on top of clock
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
